@@ -1,0 +1,2 @@
+# PicGO
+image upload repository
